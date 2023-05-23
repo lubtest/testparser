@@ -1,0 +1,27 @@
+/geckodriver/
+/сериалы собрал/
+/fileserials.txt
+/fileSpisok.txt
+/geckodriver.log
+/innerkod.txt
+/out.txt
+/parseLink.py
+/parseSerials.py
+/parseSite.py
+/possilke.py
+/result.txt
+/result-test.txt
+/spisokFilms.py
+/Великолепный век. Империя Кёсем (2015).txt
+/Великолепный век (2011).txt
+/Гриффины (1999).txt
+/Знахарь (2017).txt
+/Мажор (2014).txt
+/Менталист (2008).txt
+/Остаться в живых (2004).txt
+/Симпсоны (1989).txt
+/список 250 сериалов.txt
+/Я не робот (2017).txt
+*.txt
+*.py
+!E:\python\parseKino\parse
